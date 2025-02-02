@@ -1,3 +1,3 @@
 export function designSystem(): string {
-  return 'design-system';
+  return 'design-system deluxe';
 }
