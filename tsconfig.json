@@ -1,0 +1,16 @@
+{
+  "extends": "./tsconfig.base.json",
+  "compileOnSave": false,
+  "files": [],
+  "references": [
+    {
+      "path": "./packages/components"
+    },
+    {
+      "path": "./apps/mainapp"
+    },
+    {
+      "path": "./packages/design-system"
+    }
+  ]
+}

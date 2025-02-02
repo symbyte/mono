@@ -1,0 +1,13 @@
+{
+  "extends": "../../tsconfig.base.json",
+  "files": [],
+  "include": [],
+  "references": [
+    {
+      "path": "../design-system"
+    },
+    {
+      "path": "./tsconfig.lib.json"
+    }
+  ]
+}
