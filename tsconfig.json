@@ -11,6 +11,9 @@
     },
     {
       "path": "./packages/design-system"
+    },
+    {
+      "path": "./packages/more-components"
     }
   ]
 }

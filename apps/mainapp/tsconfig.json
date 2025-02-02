@@ -3,6 +3,12 @@
   "include": [],
   "references": [
     {
+      "path": "../../packages/more-components"
+    },
+    {
+      "path": "../../packages/components"
+    },
+    {
       "path": "./tsconfig.app.json"
     },
     {
