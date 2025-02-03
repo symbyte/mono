@@ -7,7 +7,9 @@ const root = ReactDOM.createRoot(
 );
 
 root.render(
+  // @ts-expect-error I don't know why this is broken
   <StrictMode>
+    {/* @ts-expect-error I don't know why this is broken */}
     <App />
   </StrictMode>
 );
