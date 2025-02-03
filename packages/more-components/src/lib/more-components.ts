@@ -1,3 +1,3 @@
 export function moreComponents(): string {
-  return 'more-components and stuff';
+  return 'more-components and other things';
 }
